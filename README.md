@@ -4,7 +4,6 @@
 ### Machine Learning
 - [ ] [Machine Learning A-Z: Hands-on Python and R in Data Science](https://www.udemy.com/machinelearning/learn/v4/content)
 - [ ] [Machine Learning With Big Data](https://www.coursera.org/learn/big-data-machine-learning/home/welcome)
-- [ ] [A unified of Multi-Label Performance Measures](http://proceedings.mlr.press/v70/wu17a.html)
 
 ### Deep Learning
 - [x] [Deep Learning: Recurrent Neural Networks in Python](https://www.udemy.com/deep-learning-recurrent-neural-networks-in-python/learn/v4/overview): Theano
@@ -52,4 +51,5 @@
 - [A scalable Keras + deep learning REST API](https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/)
 
 ## Research
+- [ ] [A unified of Multi-Label Performance Measures](http://proceedings.mlr.press/v70/wu17a.html)
 - [ ] [Incremental learning algorithms and applications](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2016-19.pdf)
