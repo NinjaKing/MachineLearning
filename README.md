@@ -10,8 +10,11 @@
 - [x] [Deep Learning: Recurrent Neural Networks in Python](https://www.udemy.com/deep-learning-recurrent-neural-networks-in-python/learn/v4/overview): Theano
 - [x] [Deep Learning for Text and Sequence](https://classroom.udacity.com/courses/ud730)
 - [ ] [CS20: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/syllabus.html)
+  - Variable sharing and managing experiments, A1
 - [ ] [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html)
 - [ ] [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/syllabus.html)
+  - [Videos](https://www.youtube.com/playlist?list=PLU40WL8Ol94IJzQtileLTqGZuXtGlLMP_)
+  - Progress: Word Vectors 1 
 - [ ] [Deep Learning with TensorFlow, IBM Cognitive Class, ML0120EN](https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+ML0120EN+2016/info)
 - [ ] [fast.ai courses](http://course.fast.ai/lessons/lessons.html)
 - [x] [Neural Networks and Deep Learning, deeplearning.ai](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
