@@ -4,11 +4,12 @@
 ### Machine Learning
 - [ ] [Machine Learning A-Z: Hands-on Python and R in Data Science](https://www.udemy.com/machinelearning/learn/v4/content)
 - [ ] [Machine Learning With Big Data](https://www.coursera.org/learn/big-data-machine-learning/home/welcome)
+- [ ] [CS202: Data Mining and Analysis](http://web.stanford.edu/class/stats202/)
 
 ### Deep Learning
 - [x] [Deep Learning: Recurrent Neural Networks in Python](https://www.udemy.com/deep-learning-recurrent-neural-networks-in-python/learn/v4/overview): Theano
 - [x] [Deep Learning for Text and Sequence](https://classroom.udacity.com/courses/ud730)
-- [ ] [Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/syllabus.html)
+- [ ] [CS20: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/syllabus.html)
 - [ ] [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html)
 - [ ] [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/syllabus.html)
 - [ ] [Deep Learning with TensorFlow, IBM Cognitive Class, ML0120EN](https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+ML0120EN+2016/info)
