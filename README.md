@@ -56,6 +56,6 @@
 
 ## Research
 - [ ] [A unified of Multi-Label Performance Measures](http://proceedings.mlr.press/v70/wu17a.html)
-- [ ] [Incremental learning algorithms and applications](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2016-19.pdf)
+- [x] [Incremental learning algorithms and applications](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2016-19.pdf)
 - [ ] [Incremental and Encoding Formulations for Mixed Integer Programming](http://www.mit.edu/~jvielma/publications/Incremental-and-Encoding-Formulations.pdf)
 - [ ] [Incremental Integer Linear Programming for Non-projective Dependency Parsing](https://pdfs.semanticscholar.org/2789/1ad3fbd8420c1a5a7459bf72b2e299487aab.pdf)
