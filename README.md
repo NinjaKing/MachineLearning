@@ -63,3 +63,4 @@
 - [ ] [Learning to Branch in Mixed Integer Programming](http://www.ekhalil.com/pdfs/KhaLebSonNemDil16.pdf)
 - [ ] [Solving Mixed-Integer Programming Problems Using Piecewise Linearization Methods](https://kops.uni-konstanz.de/bitstream/handle/123456789/40493/Bernreuther_2-1gxw6ja5feelr3.pdf?sequence=3)
 - [ ] [Mixed-Integer Models for Nonseparable Piecewise Linear Optimization: Unifying Framework and Extensions](https://pdfs.semanticscholar.org/252a/4daec0cd8815da7839f7b44b1d371ce616f2.pdf)
+- [ ] [Mixed Integer Programming Model and Incremental Optimization for Delivery and Storage Planning Using Truck Terminals]()
