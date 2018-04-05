@@ -59,3 +59,7 @@
 - [x] [Incremental learning algorithms and applications](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2016-19.pdf)
 - [ ] [Incremental and Encoding Formulations for Mixed Integer Programming](http://www.mit.edu/~jvielma/publications/Incremental-and-Encoding-Formulations.pdf)
 - [ ] [Incremental Integer Linear Programming for Non-projective Dependency Parsing](https://pdfs.semanticscholar.org/2789/1ad3fbd8420c1a5a7459bf72b2e299487aab.pdf)
+- [ ] [A Supervised Machine Learning Approach to Variable Branching in Branch-And-Bound](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.705.606&rep=rep1&type=pdf)
+- [ ] [Learning to Branch in Mixed Integer Programming](http://www.ekhalil.com/pdfs/KhaLebSonNemDil16.pdf)
+- [ ] [Solving Mixed-Integer Programming Problems Using Piecewise Linearization Methods](https://kops.uni-konstanz.de/bitstream/handle/123456789/40493/Bernreuther_2-1gxw6ja5feelr3.pdf?sequence=3)
+- [ ] [Mixed-Integer Models for Nonseparable Piecewise Linear Optimization: Unifying Framework and Extensions](https://pdfs.semanticscholar.org/252a/4daec0cd8815da7839f7b44b1d371ce616f2.pdf)
