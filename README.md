@@ -58,7 +58,7 @@
 - [ ] [A unified of Multi-Label Performance Measures](http://proceedings.mlr.press/v70/wu17a.html)
 - [x] [Incremental learning algorithms and applications](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2016-19.pdf)
 - [x] [Incremental and Encoding Formulations for Mixed Integer Programming](http://www.mit.edu/~jvielma/publications/Incremental-and-Encoding-Formulations.pdf)
-- [ ] [Incremental Integer Linear Programming for Non-projective Dependency Parsing](https://pdfs.semanticscholar.org/2789/1ad3fbd8420c1a5a7459bf72b2e299487aab.pdf)
+- [x] [Incremental Integer Linear Programming for Non-projective Dependency Parsing](https://pdfs.semanticscholar.org/2789/1ad3fbd8420c1a5a7459bf72b2e299487aab.pdf)
 - [ ] [A Supervised Machine Learning Approach to Variable Branching in Branch-And-Bound](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.705.606&rep=rep1&type=pdf)
 - [ ] [Learning to Branch in Mixed Integer Programming](http://www.ekhalil.com/pdfs/KhaLebSonNemDil16.pdf)
 - [ ] [Solving Mixed-Integer Programming Problems Using Piecewise Linearization Methods](https://kops.uni-konstanz.de/bitstream/handle/123456789/40493/Bernreuther_2-1gxw6ja5feelr3.pdf?sequence=3)
@@ -67,3 +67,4 @@
 - [ ] [An Incremental Model for Combinatorial Maximization Problems](https://www.cs.oberlin.edu/~asharp/papers/wea06.pdf)
 - [ ] [Fast Incremental Method for Nonconvex Optimization](https://arxiv.org/pdf/1603.06159.pdf)
 - [ ] [Incremental Gradient, Subgradient, and Proximal Methods for Convex Optimization: A Survey](https://arxiv.org/pdf/1507.01030.pdf)
+- [ ] [Sensitivity Analysis for Linear Programming](http://mat.gsia.cmu.edu/classes/QUANT/NOTES/chap8.pdf)
