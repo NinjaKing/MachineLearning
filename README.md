@@ -57,7 +57,7 @@
 ## Research
 - [ ] [A unified of Multi-Label Performance Measures](http://proceedings.mlr.press/v70/wu17a.html)
 - [x] [Incremental learning algorithms and applications](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2016-19.pdf)
-- [ ] [Incremental and Encoding Formulations for Mixed Integer Programming](http://www.mit.edu/~jvielma/publications/Incremental-and-Encoding-Formulations.pdf)
+- [x] [Incremental and Encoding Formulations for Mixed Integer Programming](http://www.mit.edu/~jvielma/publications/Incremental-and-Encoding-Formulations.pdf)
 - [ ] [Incremental Integer Linear Programming for Non-projective Dependency Parsing](https://pdfs.semanticscholar.org/2789/1ad3fbd8420c1a5a7459bf72b2e299487aab.pdf)
 - [ ] [A Supervised Machine Learning Approach to Variable Branching in Branch-And-Bound](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.705.606&rep=rep1&type=pdf)
 - [ ] [Learning to Branch in Mixed Integer Programming](http://www.ekhalil.com/pdfs/KhaLebSonNemDil16.pdf)
