@@ -37,6 +37,7 @@
 - [ ] [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf?)
 - [ ] [Visualizing and Understanding Convolutional Networks](https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
 - [ ] [Robo-Nanny: ConvNets for Intelligent Baby Monitoring](http://cs231n.stanford.edu/reports/2017/pdfs/13.pdf)
+- [ ] [Object detection with google tensorflow api](https://www.kdnuggets.com/2018/03/google-tensorflow-object-detection-api-the-easiest-way-implement-image-recognition.html)
 
 ## Projects
 ### Product matching
