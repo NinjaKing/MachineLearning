@@ -39,6 +39,10 @@
 - [ ] [Robo-Nanny: ConvNets for Intelligent Baby Monitoring](http://cs231n.stanford.edu/reports/2017/pdfs/13.pdf)
 - [ ] [Object detection with google tensorflow api](https://www.kdnuggets.com/2018/03/google-tensorflow-object-detection-api-the-easiest-way-implement-image-recognition.html)
 
+### Reinforcement Learning
+- [ ] [Simple reinforcement learning with tensorflow](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
+- [ ] [CS 294: Deep Reinforcement Learning]()
+
 ## Projects
 ### Product matching
 - [ ] [Walmart model](https://medium.com/walmartlabs/product-matching-in-ecommerce-4f19b6aebaca)
