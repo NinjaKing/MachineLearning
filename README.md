@@ -32,6 +32,7 @@
 - [x] [A Probabilistic Generative Grammar for Semantic Parsing](http://www.aclweb.org/anthology/K17-1026)
 - [x] [Named Entity Disambiguation for Noisy Text](http://www.aclweb.org/anthology/K17-1008)
 - [ ] [Feature Selection as Causal Reference: Experiments with Text Classification](https://www.aclweb.org/anthology/K/K17/K17-1018.pdf)
+- [ ] [SPEAKER RECOGNITION FROM RAW WAVEFORM WITH SINCNET](https://arxiv.org/pdf/1808.00158.pdf)
 
 ### Images Processing
 - [ ] [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf?)
